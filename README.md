@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me :
 
 - :boom: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
@@ -32,10 +32,15 @@
 
 ---
 
-### :fire: My Stats :
+### <img src="https://emoji.discadia.com/emojis/4d1fd379-c331-46ba-a083-49af10fc9bb5.gif" width="40px" alt="Fire"> My Stats :
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArturVetrov&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
-&nbsp;
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturVetrov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
+</br>
+
 [![codewars](https://www.codewars.com/users/Artur_Vetrov/badges/large)](https://www.codewars.com/users/Artur_Vetrov)
+</div>
