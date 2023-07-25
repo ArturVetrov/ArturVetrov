@@ -14,7 +14,7 @@
 
   :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-  :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/artur_Vetrov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arturVetrov)
+  :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/artur_Vetrov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arturVetrov)
 
 ---
 
