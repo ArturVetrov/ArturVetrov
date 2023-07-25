@@ -35,4 +35,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArturVetrov&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturVetrov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+[![codewars](https://www.codewars.com/users/Artur_Vetrov/badges/large)](https://www.codewars.com/users/Artur_Vetrov)
