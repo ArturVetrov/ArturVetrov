@@ -10,11 +10,11 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me :
 
-- :boom: I’m working as a Software Engineer and contributing to frontend for building web applications.
+  :boom: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+  :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/artur_Vetrov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arturVetrov)
+  :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/artur_Vetrov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arturVetrov)
 
 ---
 
